@@ -18,3 +18,4 @@ obj/
 App_Data/
 *.dll
 dist
+.vs/*

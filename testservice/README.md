@@ -1,0 +1,1 @@
+﻿.Net Core web service which can be deployed to docker.
